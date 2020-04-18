@@ -135,7 +135,7 @@ aside {
   max-width: 150px;
 }
 /* same same same and can be combined */
-.details {
+section {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -145,11 +145,11 @@ aside {
 }
 
 /* the next 3 are the same */
-.details img {
+section img {
   max-height: 200px;
 }
 
-.details h2 {
+section h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
