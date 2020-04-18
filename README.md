@@ -1,2 +1,0 @@
-# coderefactor
-HW 1
