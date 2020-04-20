@@ -1,0 +1,11 @@
+For this HW assignment I was to refactor the code and make it more accessible to all users.
+
+The client requested he wanted semantic HTML tags used to be more accessible to all users.
+
+To my understanding this meant he wanted me to find replacements for the DIV tags founded throughout the original code.
+
+I used various semantic HTML tags to replace the original DIV tags thus making the code more accessible and easier for anyone to come in after me and adjust the code if needed. ALT tags were added to all images in the page for our demographic using screen readers.
+
+I also adjusted the CSS stylesheet to remove unneeded classes. Most of the CSS code I found was redundant and most CSS elements served the same purpose. Those were consolidated into one HTML semantic tag.
+
+The website looks exactly how it was originally. All that was chanced was the code for the website.
